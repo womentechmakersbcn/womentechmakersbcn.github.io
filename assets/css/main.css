@@ -1425,6 +1425,7 @@
 		
 		.img-logo-fib {
 			width: 100%;
+			margin-top: 10px;
 		}
 		
 		.img-logo-strands {
@@ -3852,3 +3853,9 @@
 		background-color: #00BFA5;
 		text-align: center;
 	}
+	
+	.space-item-logo {
+		margin-top: 20px;
+	}
+		
+	
