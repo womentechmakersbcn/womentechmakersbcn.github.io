@@ -2068,10 +2068,6 @@
 			padding-left: 0;
 		}
 
-			ul.icons li {
-				display: inline-block;
-				padding: 0 1em 0 0;
-			}
 
 				ul.icons li:last-child {
 					padding-right: 0 !important;
@@ -2081,9 +2077,6 @@
 				padding: 1em 0;
 			}
 
-				ul.icons.major li {
-					padding-right: 3.5em;
-				}
 
 					@media screen and (max-width: 736px) {
 
@@ -3586,6 +3579,7 @@
 	#cta .inner {
 		
 		max-width: 45em;
+		text-align: center;
 	}
 
 		#cta .inner header {
