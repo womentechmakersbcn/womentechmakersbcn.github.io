@@ -1588,11 +1588,7 @@
 		top: -0.5em;
 	}
 
-	hr {
-		border: 0;
-		border-bottom: solid 2px #fff;
-		margin: 3em 0;
-	}
+	
 
 		hr.major {
 			margin: 4.5em 0;
@@ -3857,4 +3853,13 @@
 		margin-top: 20px;
 	}
 		
-	
+.sponsors {
+    color: #4285F4;
+    text-align: center;
+}
+
+.space-sponsors {
+    height: 5px;
+    background-color: #4285F4;
+    border: none;
+}
