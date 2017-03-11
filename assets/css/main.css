@@ -1422,19 +1422,20 @@
 		.img-logo-techladies {
 			width: 50%;
 		}
-		
-		.img-logo-fib {
-			width: 100%;
-			margin-top: 10px;
+		 
+        .img-logo-bronze {
+			width: 25%;
 		}
+        
+        .img-logo-gold {
+            width: 100%;
+        }
+        
+        .img-logo-silver {
+            width: 60%;
+        }
 		
-		.img-logo-strands {
-			width: 60%;
-		}
 		
-		.img-logo-bts {
-			width: 100%;
-		}
 
 	}
 
