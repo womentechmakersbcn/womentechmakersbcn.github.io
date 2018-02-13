@@ -3163,6 +3163,6 @@ label {
 @media (max-width: 500px) {
 
     .schedule-slot-time {
-        width: 100%;
+        width: 30%;
     }
 }
