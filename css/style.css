@@ -3167,4 +3167,9 @@ label {
     .schedule-slot-time {
         width: 100%;
     }
+
+    .countdown > div {
+        margin: 0px 12px;
+    }
+
 }
