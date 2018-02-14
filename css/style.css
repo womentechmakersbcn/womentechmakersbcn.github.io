@@ -3149,12 +3149,14 @@ label {
 }
 
 @media (max-width: 320px) {
+
     .footer-logo img {
         width: 300px;
     }
 }
 
 @media (max-width: 360px) {
+
     .footer-logo img {
         width: 300px;
     }
@@ -3163,6 +3165,6 @@ label {
 @media (max-width: 500px) {
 
     .schedule-slot-time {
-        width: 30%;
+        width: 100%;
     }
 }
