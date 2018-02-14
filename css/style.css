@@ -3148,18 +3148,9 @@ label {
     font-size: 35px
 }
 
-@media (max-width: 320px) {
 
-    .footer-logo img {
-        width: 300px;
-    }
-}
-
-@media (max-width: 360px) {
-
-    .footer-logo img {
-        width: 300px;
-    }
+.img-footer-logo-tech {
+    max-width: 50%;
 }
 
 @media (max-width: 500px) {
@@ -3172,4 +3163,7 @@ label {
         margin: 0px 12px;
     }
 
+    .img-footer-logo-tech {
+        width: 30%;
+    }
 }
