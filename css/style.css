@@ -472,10 +472,9 @@ cite {
 .btn.btn-primary,
 .btn-dark,
 .btn-border {
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 700;
-    letter-spacing: 3px;
-    text-transform: uppercase;
+    text-transform: none;
     padding: 13px 18px;
     line-height: 1.33;
     border-radius: 3px;
@@ -1838,10 +1837,12 @@ ul.navbar-nav > li:hover > a{
 }
 .ts-speaker-session.right{
     padding-left: 20px;
+    padding-top: 20px;
 }
 
 .ts-speaker-session.left{
     padding-right: 20px;
+    padding-bottom: 20px;
 }
 
 .ts-speaker-session .session-title {
